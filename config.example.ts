@@ -1,5 +1,5 @@
 export const config = {
-	"name": "The Artificer", // Name of the bot
+	"name": "The Artificer", // Name of the bots
 	"version": "2.0.0", // Version of the bot
 	"token": "the_bot_token", // Discord API Token for this bot
 	"localtoken": "local_testing_token", // Discord API Token for a secondary OPTIONAL testing bot, THIS MUST BE DIFFERENT FROM "token"
